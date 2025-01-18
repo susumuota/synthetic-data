@@ -5,15 +5,16 @@ description = ""
 authors = ["Susumu OTA <1632335+susumuota@users.noreply.github.com>"]
 readme = "README.md"
 license = "MIT"
-packages = [{include = "synthetic_data"}]
+packages = [{ include = "synthetic_data" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+openai = "^1.59.8"
 
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^4.3.4"
-black = "^24.10.0"
+black = { extras = ["jupyter"], version = "^24.10.0" }
 flake8 = "^7.1.1"
 isort = "^5.13.2"
 
