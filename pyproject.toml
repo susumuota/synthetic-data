@@ -1,23 +1,22 @@
 [tool.poetry]
-name = "synthetic-data"
+name = "synthetic-data-hands-on"
 version = "0.1.0"
 description = ""
 authors = ["Susumu OTA <1632335+susumuota@users.noreply.github.com>"]
 readme = "README.md"
 license = "MIT"
-packages = [{ include = "synthetic_data" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 datasets = "^3.2.0"
-litellm = "^1.59.7"
+litellm = "^1.59.9"
 
 
 [tool.poetry.group.dev.dependencies]
-jupyterlab = "^4.3.4"
-black = { extras = ["jupyter"], version = "^24.10.0" }
+jupyterlab = "^4.3.5"
+black = { extras = ["jupyter"], version = "^25.1.0" }
 flake8 = "^7.1.1"
-isort = "^5.13.2"
+isort = "^6.0.0"
 
 [build-system]
 requires = ["poetry-core"]
