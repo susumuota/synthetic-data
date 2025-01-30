@@ -2,8 +2,8 @@
 
 ## ハンズオン資料
 
-- Persona-Hub による事後学習データ合成 ([Jupyter Notebook](notebooks/synth_persona.ipynb)) ([Google Colab](https://colab.research.google.com/drive/1_bz6DTiuikxI1sAo5BqnxHGjhFnvpLk7?usp=sharing))
-- LLM-as-a-Judge による選好データ合成 ([Jupyter Notebook](notebooks/synth_llm_judge.ipynb)) ([Google Colab](https://colab.research.google.com/drive/10GaoqoBa3pBtFSII3QuQ7jzXJNeiXUeZ?usp=sharing))
+- Persona-Hub による事後学習データ合成 ([Jupyter Notebook](notebooks/synth_persona.ipynb)) ([Google Colab](https://colab.research.google.com/drive/1GX_7ycw55O9HL8cjGZtFVwmlF3OnEe0e?usp=sharing))
+- LLM-as-a-Judge による選好データ合成 ([Jupyter Notebook](notebooks/synth_llm_judge.ipynb)) ([Google Colab](https://colab.research.google.com/drive/1dL-IAmsOiV5MdkWojElYIH_948yZ9hkT?usp=sharing))
 
 ## コンパス イベントページ
 
