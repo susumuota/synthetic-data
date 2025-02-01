@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "synthetic-data-hands-on"
 version = "0.1.0"
-description = ""
+description = "A hands-on tutorial for synthetic data generation."
 authors = ["Susumu OTA <1632335+susumuota@users.noreply.github.com>"]
 readme = "README.md"
 license = "Apache-2.0"
