@@ -20,6 +20,7 @@ Susumu Ota 2025-02-02
 - Jiawei Gu et al., "A Survey on LLM-as-a-Judge", arXiv preprint arXiv:2411.15594v3, 2024. https://arxiv.org/abs/2411.15594
 - Rafael Rafailov et al., "Direct Preference Optimization: Your Language Model is Secretly a Reward Model", NeurIPS 2023, 2023. https://papers.nips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html
 - Hanze Dong et al., "RLHF Workflow: From Reward Modeling to Online RLHF", arXiv preprint arXiv:2405.07863v3, 2024. https://arxiv.org/abs/2405.07863
+- 西澤克彦 et al., "日本語での対話・作文能力に力点を置いた大規模言語モデルの開発 公募・公開型によるLLM開発プロジェクト "Tanuki" の報告", 2025年度 人工知能学会全国大会(第39回), 2025. (発表予定)
 - Lozhkov et al., "FineWeb-Edu: the Finest Collection of Educational Content", アクセス日: 2025-01-28, https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
 - Argilla, "FinePersonas", アクセス日: 2025-01-28, https://huggingface.co/datasets/argilla/FinePersonas-v0.1
 - Kan Hatakeyama, "大規模言語モデルを開発するにあたっての事前・事後学習の戦略メモー特に合成データについてー", https://zenn.dev/matsuolab/articles/34036f017fae9e, アクセス日: 2025-02-01
@@ -32,9 +33,9 @@ Susumu Ota 2025-02-02
 - Mさん, "Tanuki8Bに対するMT-Benchを用いた評価を体験してみる", https://zenn.dev/matsuolab/articles/2aafa8a7ba7482, アクセス日: 2025-02-01
 - Kan Hatakeyama, "大規模言語モデル Tanuki-8x8B の紹介と開発経緯など", 9/10 松尾研 LLM 開発プロジェクト "Tanuki-8x8B" 開発成果報告会 Vol.1, https://www.docswell.com/s/matsuo-lab_llm/51R2L4-2024-9-10-Tanuki%E9%96%8B%E7%99%BA%E5%A0%B1%E5%91%8A%E4%BC%9A-vol1, https://www.youtube.com/watch?v=IcpXpX-r6ZY, アクセス日: 2025-01-28
 - Susumu Ota, "Persona-Hub による合成データ生成", 9/24 松尾研 LLM 開発プロジェクト "Tanuki-8x8B" 開発成果報告会 Vol. 3, https://www.docswell.com/s/matsuo-lab_llm/ZDNGR4-2024-9-24-Tanuki%E9%96%8B%E7%99%BA%E5%A0%B1%E5%91%8A%E4%BC%9A-vol3, https://www.youtube.com/watch?v=XAdc-OgLeOw, アクセス日: 2025-01-28
+- 松尾研LLMコミュニティメンバー, "「小型LlamaモデルのTRLライブラリを用いた事後学習」松尾研 LLM コミュニティ 勉強会シリーズ#3 (2024-11-24)", https://www.youtube.com/watch?v=ezNx6tB8jac, アクセス日: 2025-02-01
 - [NEDO 採択プロジェクト] 多様な日本語能力の向上を目指した公開の基盤モデル開発, コードレポジトリ “synth_topic_multiturn.py”,アクセス日: 2025-01-28, https://github.com/matsuolab/nedo_project_code/blob/team_hatakeyama_phase2/team_hatakeyama_phase2/ota/topic-hub/synth_topic_multiturn.py
 - [NEDO 採択プロジェクト] 多様な日本語能力の向上を目指した公開の基盤モデル開発, コードレポジトリ "iterative-dpo",アクセス日: 2025-01-28, https://github.com/matsuolab/nedo_project_code/tree/team_hatakeyama_phase2/team_hatakeyama_phase2/ota/iterative-dpo
-- 松尾研LLMコミュニティメンバー, "「小型LlamaモデルのTRLライブラリを用いた事後学習」松尾研 LLM コミュニティ 勉強会シリーズ#3 (2024-11-24)", https://www.youtube.com/watch?v=ezNx6tB8jac, アクセス日: 2025-02-01
 
 ## ライセンス
 
