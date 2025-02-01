@@ -11,6 +11,7 @@ python = "^3.11"
 datasets = "^3.2.0"
 litellm = "^1.59.9"
 pandas = "^2.2.3"
+tqdm = "^4.67.1"
 
 
 [tool.poetry.group.dev.dependencies]
