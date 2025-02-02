@@ -20,7 +20,6 @@ Susumu Ota 2025-02-02
 - Jiawei Gu et al., "A Survey on LLM-as-a-Judge", arXiv preprint arXiv:2411.15594v3, 2024. https://arxiv.org/abs/2411.15594
 - Rafael Rafailov et al., "Direct Preference Optimization: Your Language Model is Secretly a Reward Model", NeurIPS 2023, 2023. https://papers.nips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8302b5e06ce7-Abstract-Conference.html
 - Hanze Dong et al., "RLHF Workflow: From Reward Modeling to Online RLHF", arXiv preprint arXiv:2405.07863v3, 2024. https://arxiv.org/abs/2405.07863
-- 西澤克彦 et al., "日本語での対話・作文能力に力点を置いた大規模言語モデルの開発 公募・公開型によるLLM開発プロジェクト "Tanuki" の報告", 2025年度 人工知能学会全国大会(第39回), 2025. (発表予定)
 - Lozhkov et al., "FineWeb-Edu: the Finest Collection of Educational Content", アクセス日: 2025-01-28, https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
 - Argilla, "FinePersonas", アクセス日: 2025-01-28, https://huggingface.co/datasets/argilla/FinePersonas-v0.1
 - Kan Hatakeyama, "大規模言語モデルを開発するにあたっての事前・事後学習の戦略メモー特に合成データについてー", https://zenn.dev/matsuolab/articles/34036f017fae9e, アクセス日: 2025-02-01
